@@ -1,0 +1,10 @@
+{
+  "name": "systeme-surveillance-equipements-industriels",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node node_modules/node-red/red.js -v"
+  },
+  "dependencies": {
+    "node-red": "^4.0.0"
+  }
+}
